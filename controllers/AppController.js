@@ -16,3 +16,4 @@ export default class AppController {
         res.status(200).json({ users: usersCount, files: filesCount });
       });
   }
+}
