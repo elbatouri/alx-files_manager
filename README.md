@@ -10,7 +10,7 @@
 <li>Generate thumbnails for images</li>
 </ul>
 
-<p>You will be guided step by step for building it, but you have some freedoms of implementation, split in more files etc&hellip; (<code>utils</code> folder will be your friend)</p>
+<p>You will be guided step by step for building it. but you have some freedoms of implementation, split in more files etc&hellip; (<code>utils</code> folder will be your friend)</p>
 
 <p>Of course, this kind of service already exists in the real life - it&rsquo;s a learning purpose to assemble each piece and build a full product.</p>
 
